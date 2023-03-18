@@ -1,0 +1,14 @@
+@import	"banner.css";
+@import "footer.css";
+@import "buttons.css";
+@import "cards.css";
+@import "menu.css";
+@import "contact.css";
+@import "accueil.css";
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d2b48c; 
+  margin: auto;
+}

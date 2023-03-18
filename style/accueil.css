@@ -1,0 +1,30 @@
+.image-accueil {
+  text-align: center;
+}
+
+.small-image {
+  display: inline-block;
+  width: 250px;
+  height: 300px;
+  margin: 10px;
+  margin-bottom: 100px;
+}
+
+.images-bannière {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  background-color: #d2b48c;
+  margin-bottom: 190px;
+  background-color: transparent;
+}
+
+.images-bannière img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+

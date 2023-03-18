@@ -1,0 +1,21 @@
+#banner {
+	height:550px;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#banner {
+  position: relative;
+}
+
+#banner img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

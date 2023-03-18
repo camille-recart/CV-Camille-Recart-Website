@@ -1,0 +1,19 @@
+#contact-info {
+  background-color: transparent;
+  border: 2px solid #FFFFFF;
+  border-radius: 10px;
+  padding: 20px;
+  margin: -230px auto 0;
+  max-width: 600px;
+  text-align: center;
+}
+
+#contact-info h3 {
+  margin-top: -350;
+  font-size: 27px;
+}
+
+#contact-info li {
+  list-style: none;
+  font-size: 18px;
+  margin: 15px;
